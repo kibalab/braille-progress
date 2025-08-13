@@ -24,7 +24,7 @@
 ## 설치
 
 ```bash
-pip install bprogress
+pip install braille-progress
 ```
 
 Python ≥ 3.8. Windows는 Windows Terminal 등 VT 지원 콘솔 권장.
