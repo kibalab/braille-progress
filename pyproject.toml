@@ -3,15 +3,15 @@ requires = ["hatchling>=1.25"]
 build-backend = "hatchling.build"
 
 [project]
-name = "bprogress"
-version = "1.0.0"
-description = "Braille-based multi progress bars with ANSI colors (docker-compose style)"
+name = "braille-progress"
+version = "1.0.1"
+description = "Braille-based multi progress bars with ANSI colors"
 readme = "README.md"
 
 license = { file = "LICENSE" }
 
 requires-python = ">=3.8"
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "KIBALAB", email = "root@kiba.red" }]
 keywords = ["progress", "terminal", "braille", "ansi", "cli"]
 classifiers = [
   "Programming Language :: Python :: 3",
