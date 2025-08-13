@@ -1,4 +1,5 @@
 # braille-progress
+<img width="1060" height="244" alt="image" src="https://github.com/user-attachments/assets/7b6d7929-3db5-4140-8570-989e5d2bcf35" />
 
 점자 문자를 이용한 프로그레스 보드. 자유로운 레이아웃 커스터마이즈, 태스크별 로그 패널, 테스크 에러 리포트, Windows/Linux/macOS 터미널 복구까지 지원.
 
