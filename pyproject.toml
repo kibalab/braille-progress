@@ -21,8 +21,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/braille-progress"
-Repository = "https://github.com/yourname/braille-progress"
+Homepage = "https://github.com/kibalab/braille-progress"
+Repository = "https://github.com/kibalab/braille-progress"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/braille_progress"]
